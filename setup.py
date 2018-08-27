@@ -28,4 +28,4 @@ setup(name='pinject',
       long_description=open('README.rst').read(),
       platforms='all',
       packages=['pinject/', 'pinject/third_party'],
-      install_requires=['six==1.7.3'])
+      install_requires=['six>=1.7.3'])
